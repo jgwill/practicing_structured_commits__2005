@@ -1,0 +1,23 @@
+{
+  "name": "practicing_structured_commits__2005",
+  "version": "1.0.0",
+  "description": "Practice the generaction of structured commits using Convention",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgwill/practicing_structured_commits__2005.git"
+  },
+  "keywords": [
+    "commit",
+    "convention"
+  ],
+  "author": "Guillaume Descoteaux-Isabelle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgwill/practicing_structured_commits__2005/issues"
+  },
+  "homepage": "https://github.com/jgwill/practicing_structured_commits__2005#readme"
+}
