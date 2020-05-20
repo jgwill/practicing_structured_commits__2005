@@ -116,3 +116,14 @@ Just as in the subject, use the imperative, present tense: "change" not "changed
 The footer should contain any information about Breaking Changes and is also the place to reference GitHub issues that this commit Closes.
 
 Breaking Changes should start with the word BREAKING CHANGE: with a space or two newlines. The rest of the commit message is then used for this.
+
+
+----
+
+# Resources
+
+## Angular
+
+* Angular/angular. (n.d.). GitHub. Retrieved May 20, 2020, from https://github.com/angular/angular
+
+* Git Commit Message Conventions. (n.d.). Google Docs. Retrieved May 20, 2020, from https://docs.google.com/document/u/4/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit?usp=embed_facebook
