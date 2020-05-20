@@ -1,13 +1,13 @@
 {
   "name": "practicing_structured_commits__2005",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Practice the generaction of structured commits using Convention",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "chglog:list-all-subject": "git log HEAD --pretty=format:%s",
     "chglog:new-feature": "git log HEAD --grep feat",
-    "chglog:generate": "#todo generate changelog command",
+    "chglog:generate": "node generate_chglog.js  > CHANGELOG.md",
     "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "repository": {
@@ -24,11 +24,12 @@
     "url": "https://github.com/jgwill/practicing_structured_commits__2005/issues"
   },
   "auto-changelog": {
-    "issueUrl": "https://github.com/jgwill/practicing_structured_commits__2005/issues/{id}",
-    "issuePattern": "[A-Z]+-\d+"
+    "issueUrl": "https://github.com/jgwill/practicing_structured_commits__2005/issues/{id}"
   },
   "homepage": "https://github.com/jgwill/practicing_structured_commits__2005#readme",
-  "dependencies": {},
+  "dependencies": {
+    "conventional-changelog": "^3.1.21"
+  },
   "devDependencies": {
     "auto-changelog": "^2.0.0"
   }
