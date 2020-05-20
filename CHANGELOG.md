@@ -1,3 +1,7 @@
+## [1.0.2](https://github.com/jgwill/practicing_structured_commits__2005/compare/v1.0.1...v1.0.2) (2020-05-20)
+
+
+
 ## 1.0.1 (2020-05-20)
 
 
