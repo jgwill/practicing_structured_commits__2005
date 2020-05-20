@@ -20,6 +20,20 @@ docs(changelog): update changelog to beta.5
 ```txt
 fix(release): need to depend on latest rxjs and zone.js
 ```
+  
+----
+
+  This one is type **doc** applied on the scope of **commiting references** and the **subject** was I had added the possible type, scope etc.  
+  The Body described a bit what I have done and the **footer** had closed the issue no #1 in the Github issue tab.
+```sh
+git commit README.md -m "doc(commit ref): added possible type, scope, etc
+
+From the angular commit guideline, I have extracted what I found important.
+
+Closes #1"
+```
+----
+
 ## Possible types
 
 |       |       |       |       |       |
