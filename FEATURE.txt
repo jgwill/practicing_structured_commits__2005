@@ -1,0 +1,9 @@
+
+> practicing_structured_commits__2005@1.0.0 chglog:new-feature A:\src\practicing_structured_commits__2005
+> git log HEAD --grep feat
+
+commit 4f95947a4d36e49484f14bfb145d98f1ba475e40
+Author: Jean Guillaume <jgi@jgwill.com>
+Date:   Wed May 20 05:25:37 2020 -0400
+
+    feat(packaging): created packaging
