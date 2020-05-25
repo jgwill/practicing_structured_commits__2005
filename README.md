@@ -55,6 +55,10 @@ closes #4"
 
 * **changelog:** atempt to use auto-changelog package ([d4755d7](https://github.com/jgwill/practicing_structured_commits__2005/commit/d4755d7da01394d09505ed187a9dcb8e878a27e8)), closes [#4](https://github.com/jgwill/practicing_structured_commits__2005/issues/4)
 
+## Observation of the generated feature log
+
+![](https://i.imgur.com/NeO8Mbg.png)
+
 ----
 
 ----
