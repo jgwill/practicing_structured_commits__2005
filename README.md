@@ -4,6 +4,8 @@ Practicing what is at : https://github.com/angular/angular/blob/22b96b9/CONTRIBU
 
 # --@STCGoal Practice
 
+## Synopsis of Structured Commit
+
 ```html
 <type>(<scope>): <subject>
 <BLANK LINE>
