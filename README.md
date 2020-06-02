@@ -164,15 +164,15 @@ Breaking Changes should start with the word BREAKING CHANGE: with a space or two
 
 # Resources
 
-# References
+## References
 
-## 1. Angular
+### 1. Angular
 
 * Angular/angular. (n.d.). GitHub. Retrieved May 20, 2020, from https://github.com/angular/angular
 
-## 2. Git Commit Message Conventions
+### 2. Git Commit Message Conventions
 * Git Commit Message Conventions. (n.d.). Google Docs. Retrieved May 20, 2020, from https://docs.google.com/document/u/4/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit?usp=embed_facebook
 
-## 3. Conventional-changelog
+### 3. Conventional-changelog
 
 Conventional-changelog/conventional-changelog. (2020). [JavaScript]. conventional-changelog. https://github.com/conventional-changelog/conventional-changelog (Original work published 2014)
