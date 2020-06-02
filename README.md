@@ -164,6 +164,13 @@ Breaking Changes should start with the word BREAKING CHANGE: with a space or two
 
 # Resources
 
+## Related
+
+### Branching to structure a sequence of action
+
+* [Structured Committing Experimentation ref2006021209](http://simp.ly/p/Wfv22J)
+
+
 ## References
 
 ### 1. Angular
